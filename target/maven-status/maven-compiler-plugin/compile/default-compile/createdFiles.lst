@@ -1,0 +1,10 @@
+com\jhon\tarefasapi\dto\TarefaDTO.class
+com\jhon\tarefasapi\TarefasapiApplication.class
+com\jhon\tarefasapi\model\Tarefa.class
+com\jhon\tarefasapi\config\CorsConfig$1.class
+com\jhon\tarefasapi\config\OpenApiConfig.class
+com\jhon\tarefasapi\controller\TarefaController.class
+com\jhon\tarefasapi\enums\Status.class
+com\jhon\tarefasapi\repository\TarefaRepository.class
+com\jhon\tarefasapi\service\TarefaService.class
+com\jhon\tarefasapi\config\CorsConfig.class
