@@ -14,6 +14,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/tarefas")
+@CrossOrigin(origins = "*")
 @Tag(name = "Tarefas", description = "Operações relacionadas a tarefas")
 public class TarefaController {
 
