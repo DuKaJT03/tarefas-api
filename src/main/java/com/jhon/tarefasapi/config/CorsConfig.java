@@ -15,7 +15,7 @@ public class CorsConfig {
             public void addCorsMappings(CorsRegistry registry) {
 
                 registry.addMapping("/**")
-                        .allowedOrigins("*") //libera tudo (por enquanto)
+                        .allowedOrigins("https://tarefas-frontend-psi.vercel.app/") //libera tudo (por enquanto)
                         .allowedMethods("GET", "POST", "PUT", "DELETE")
                         .allowedHeaders("*");
             }
